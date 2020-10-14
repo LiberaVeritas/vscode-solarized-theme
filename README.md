@@ -1,6 +1,7 @@
 ## Settings path
 ```
 C:\Users\%USERNAME%\.vscode\extensions\ryanolsonx.solarized
+```
 
 # VS Code Solarized Theme
 
