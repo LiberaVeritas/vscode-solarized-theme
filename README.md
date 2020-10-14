@@ -1,3 +1,7 @@
+## Settings path
+```
+C:\Users\%USERNAME%\.vscode\extensions\ryanolsonx.solarized
+
 # VS Code Solarized Theme
 
 Based on the built-in solarized theme, I've improved the dark and light solarized themes to look more like solarized (as seen in website and in vim).
